@@ -1,5 +1,3 @@
-# Dump
-
 # Action Recognition Model to Monitor Illegal Dumping using Zoom-In Image Sequence Data
 
 By Kyoungmin Ko, Hyunmin Gwak, Eunseok Lee, Gunhwi Kim, Donghyeon Moon, Youngjoo Cho and SungHwan Kim
