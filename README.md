@@ -14,6 +14,8 @@ For more details, please refer to our paper: [Zoom-In Method](https://www.kci.go
 
 ### Human detect & Video crop
 
+Zoom-In Method is explained with reference to [box_detector_torch.py](https://github.com/kyoungmingo/Dump/blob/master/data/datasets/box_detector_torch.py).
+
 <img width="633" alt="스크린샷 2022-03-11 오후 5 12 44" src="https://user-images.githubusercontent.com/35245580/157828331-bd9d380b-6e4f-4b7a-a5e0-7bc417e655ef.png">
 
 ```
