@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe473e3e-e7e5-45f0-86da-4bf486424fec" name="Default Changelist" comment="" />
+    <list id="e36e8546-33e3-42bc-a3ef-880b603049bf" name="Dump" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26EAl1JvTTyQPLJrib3vjQO5lxT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe473e3e-e7e5-45f0-86da-4bf486424fec" name="Default Changelist" comment="" />
+      <changelist id="e36e8546-33e3-42bc-a3ef-880b603049bf" name="Dump" comment="" />
+      <created>1646978519574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646978519574</updated>
+      <workItem from="1646978524259" duration="1644000" />
+      <workItem from="1646980182979" duration="54000" />
+      <workItem from="1646980510546" duration="3069000" />
+      <workItem from="1646983609622" duration="100000" />
+      <workItem from="1646983717074" duration="42000" />
+      <workItem from="1646983801540" duration="1061000" />
+      <workItem from="1646984891337" duration="320000" />
+    </task>
+    <task id="LOCAL-00001" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646979591766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646979591766</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646980720349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646980720349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646980961956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646980961956</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646981364326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646981364326</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646981760591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646981760591</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646982726371</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646982726372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646982759061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646982759061</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646983195162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646983195162</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646983882638</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646983882638</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646984485411</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646984485411</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646984662153</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646984662154</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dump&#10;&#10;Human detect + Action recognition">
+      <created>1646984767731</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646984767731</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dump&#10;&#10;Human detect + Action recognition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dump&#10;&#10;Human detect + Action recognition" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2320" y="-698" key="#Deployment" timestamp="1646984754185">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2320" y="-698" key="#Deployment/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646980615568" />
+    <state x="2320" y="-698" key="#Deployment/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646984754185" />
+    <state x="2184" y="-701" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646979090795">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2184" y="-701" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646979090795" />
+    <state x="2287" y="-792" key="CommitChangelistDialog2" timestamp="1646984767573">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="1866" y="-1015" key="CommitChangelistDialog2/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646984661974" />
+    <state x="2287" y="-792" key="CommitChangelistDialog2/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646984767573" />
+    <state x="2143" y="-734" key="DiffContextDialog" timestamp="1646983540212">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2144" y="-734" key="DiffContextDialog/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646983300327" />
+    <state x="2143" y="-734" key="DiffContextDialog/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646983540212" />
+    <state x="2521" y="-438" key="Github.CreateGistDialog" timestamp="1646984901148">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2521" y="-438" key="Github.CreateGistDialog/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646984901148" />
+    <state x="2480" y="-548" key="Github.ShareDialog" timestamp="1646985011204">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2480" y="-548" key="Github.ShareDialog/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646985011204" />
+    <state x="2480" y="-548" key="Github.ShareDialog/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646984846158" />
+    <state x="2480" y="-548" key="Github.ShareDialog/1440.-1080.2560.1440/43.25.1397.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646983643448" />
+    <state x="2494" y="-655" key="RollbackChangesDialog" timestamp="1646983308088">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2494" y="-655" key="RollbackChangesDialog/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646983308088" />
+    <state x="2120" y="-810" width="1329" height="889" key="SettingsEditor" timestamp="1646985133313">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2120" y="-810" width="1329" height="889" key="SettingsEditor/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646985133313" />
+    <state x="2120" y="-810" key="SettingsEditor/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646981592746" />
+    <state x="2120" y="-810" key="SettingsEditor/1440.-1080.2560.1440/43.25.1397.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646983630353" />
+    <state x="2575" y="-443" key="VCS.ChangelistChooser" timestamp="1646983404077">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2575" y="-443" key="VCS.ChangelistChooser/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646983404077" />
+    <state x="2320" y="-623" key="Vcs.Push.Dialog.v2" timestamp="1646984865851">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2320" y="-623" key="Vcs.Push.Dialog.v2/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646984673859" />
+    <state x="2320" y="-623" key="Vcs.Push.Dialog.v2/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646984865851" />
+    <state x="2477" y="-481" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1646980548193">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2477" y="-481" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646980548193" />
+    <state x="2691" y="-631" key="ftp.server.browser" timestamp="1646980222700">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2691" y="-631" key="ftp.server.browser/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646980222700" />
+    <state x="2487" y="-569" key="git4idea.merge.GitPullDialog" timestamp="1646980763753">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2487" y="-569" key="git4idea.merge.GitPullDialog/1440.-1080.2560.1440/0.0.1440.900/-480.-1080.1920.1080@1440.-1080.2560.1440" timestamp="1646980763753" />
+    <state x="2542" y="-462" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1646984746342">
+      <screen x="1440" y="-1080" width="2560" height="1440" />
+    </state>
+    <state x="2542" y="-462" key="git4idea.remote.GitConfigureRemotesDialog/1440.-1080.2560.1440/0.25.1440.875/-480.-1055.1920.1055@1440.-1080.2560.1440" timestamp="1646984746342" />
+  </component>
+</project>
